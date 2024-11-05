@@ -1,0 +1,6 @@
+@CURSO_API_HostAddress = http://localhost:5080
+
+GET {{CURSO_API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
